@@ -4,4 +4,4 @@
 1. [Bài tập buổi 5 - Dựng layout](https://tieugum.github.io/fullstack_v2/lession05)
 1. [Bài tập buổi 7 - Dựng menu](https://tieugum.github.io/fullstack_v2/lession07)
 1. [Bài tập buổi 8 - Dựng menu tiki](https://tieugum.github.io/fullstack_v2/lession08)
-1. [Bài tập buổi 10 - Dựng menu tiki](https://tieugum.github.io/fullstack_v2/lession10)
+1. [Bài tập buổi 10 - Vẽ đồng hồ](https://tieugum.github.io/fullstack_v2/lession10)

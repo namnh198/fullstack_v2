@@ -39,7 +39,7 @@ class Clock {
 
         secondElement.style.transform = `rotate(${ Math.floor(seconds) / 60 * 360 }deg)`;
         minuteElement.style.transform = `rotate(${ minutes / 60 * 360 }deg)`;
-        hourElement.style.transform = `rotate(${ hours / 60 * 360 }deg)`;
+        hourElement.style.transform = `rotate(${ hours / 12 * 360 }deg)`;
     }
 }
 

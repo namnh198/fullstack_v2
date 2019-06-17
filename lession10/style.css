@@ -124,15 +124,15 @@ body {
 }
 
 .second-hand {
-    animation: animate 4s linear infinite;
+    transform: rotate(0deg);
 }
 
 .minute-hand {
-    animation: animate 48s linear infinite;
+    transform: rotate(180deg);
 }
 
 .hour-hand {
-    animation: animate 576s linear infinite;
+    transform: rotate(240deg);
 }
 
 .second-hand:before {
@@ -193,14 +193,4 @@ body {
 .hour-hand:after {
     border-top-width: 20px;
     top: -20px;
-}
-
-@keyframes animate {
-    from {
-        transform: rotate(0deg)
-    }
-
-    to {
-        transform: rotate(360deg)
-    }
 }

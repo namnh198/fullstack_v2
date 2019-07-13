@@ -5,3 +5,4 @@
 1. [Bài tập buổi 7 - Dựng menu](https://tieugum.github.io/fullstack_v2/lession07)
 1. [Bài tập buổi 8 - Dựng menu tiki](https://tieugum.github.io/fullstack_v2/lession08)
 1. [Bài tập buổi 10 - Vẽ đồng hồ](https://tieugum.github.io/fullstack_v2/lession10)
+1. [Bài tập buổi 14 - Login Kipalog](https://tieugum.github.io/fullstack_v2/lession14)
